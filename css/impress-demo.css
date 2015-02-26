@@ -476,19 +476,19 @@ a:focus {
 }
 
 #its-in-3d .its {
-    -webkit-transform: translateZ(60px);
-    -moz-transform:    translateZ(60px);
-    -ms-transform:     translateZ(60px);
-    -o-transform:      translateZ(60px);
-    transform:         translateZ(60px);
+    -webkit-transform: translateZ(600px);
+    -moz-transform:    translateZ(600px);
+    -ms-transform:     translateZ(600px);
+    -o-transform:      translateZ(600px);
+    transform:         translateZ(600px);
 }
 
 #its-in-3d .in {
-    -webkit-transform: translateZ(-10px);
-    -moz-transform:    translateZ(-10px);
-    -ms-transform:     translateZ(-10px);
-    -o-transform:      translateZ(-10px);
-    transform:         translateZ(-10px);
+    -webkit-transform: translateZ(-100px);
+    -moz-transform:    translateZ(-100px);
+    -ms-transform:     translateZ(-100px);
+    -o-transform:      translateZ(-100px);
+    transform:         translateZ(-100px);
 }
 
 #its-in-3d .footnote {
